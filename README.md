@@ -2,12 +2,12 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+For the 01-Module project we were given a website for Horiseon Social Solution Services and had the task of making it more accesible.
+The given website was mostly functional but had much room for improvement. And despite my best efforts I'm sure it still has ways for improvement.
+To refactor the codde and make it more accessible I changed out many div tags with appropriate html tags like nav, header, footer and section. 
+Another way to refactor code was to consolidate the selectors in the css sstyle sheet. This was where I learned the most how much redundancy can occur, and I still feel there is much to learn.
+Adding alt attributes for the images is another way to make the site more accesible.
+While looking through the site I noticed the Search Engine Optimization link was not working so fixed it.
 
 ## Table of Contents (Optional)
 
@@ -20,7 +20,15 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To setup the project on your computer follow these steps:
+
+1. open terminal command and navigate to the desired directory for the repository with the command cd
+2. use the command "git clone https://github.com/threewide/lost-zoro-appears.git" to create a clone of the respository on your local machine
+2. use the command "code ." to open in VS Code
+
+```md
+![alt text](assets/images/installation-to-development-guide-screenshot.png)
+```
 
 ## Usage
 
