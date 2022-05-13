@@ -25,6 +25,8 @@ To setup the project on your computer follow these steps:
 
 ![Installation to development guide](assets/images/installation-to-development-guide-screenshot.png)
 
+![Website Image](assets/images/website-snapshot.png)
+
 ## Credits
 
 Rich Widtmann [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
