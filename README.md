@@ -26,9 +26,7 @@ To setup the project on your computer follow these steps:
 2. use the command "git clone https://github.com/threewide/lost-zoro-appears.git" to create a clone of the respository on your local machine
 2. use the command "code ." to open in VS Code
 
-```md
-![Installation to development guide](/assets/images/installation-to-development-guide-screenshot.png)
-```
+![Installation to development guide](assets/images/installation-to-development-guide-screenshot.png)
 
 ## Usage
 
