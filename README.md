@@ -27,7 +27,7 @@ To setup the project on your computer follow these steps:
 2. use the command "code ." to open in VS Code
 
 ```md
-![alt text](assets/images/installation-to-development-guide-screenshot.png)
+![Installation to development guide](/assets/images/installation-to-development-guide-screenshot.png)
 ```
 
 ## Usage
