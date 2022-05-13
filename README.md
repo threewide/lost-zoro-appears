@@ -12,7 +12,6 @@ While looking through the site I noticed the Search Engine Optimization link was
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
@@ -25,16 +24,6 @@ To setup the project on your computer follow these steps:
 2. use the command "code ." to open in VS Code
 
 ![Installation to development guide](assets/images/installation-to-development-guide-screenshot.png)
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
